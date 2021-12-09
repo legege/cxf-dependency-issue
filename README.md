@@ -49,7 +49,7 @@ We find here the library `com.sun.activation:javax.activation` coming directly f
 
 ## Gradle
 
-* Command to run: `mvn dependency:tree`
+* Command to run: `./gradlew dependencies`
 
 Output:
 
