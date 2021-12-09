@@ -1,0 +1,7 @@
+plugins {
+  id 'java-library'
+}
+
+dependencies {
+  api 'org.apache.cxf:cxf-rt-frontend-jaxws:3.3.6'
+}
